@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=druvakumarbt&label=Profile%20views&color=0e75b6&style=flat" alt="druvakumarbt" /> </p>
 
-- 🔭 I’m currently working on [HyVee](https://www.hy-vee.com/)
+- 🔭 I’m currently working in [HyVee](https://www.hy-vee.com/)
 
 - 🌱 I’m currently learning **React, React Libraries**
 
